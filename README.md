@@ -96,6 +96,3 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
-
-Developed for educational and demonstration purposes.
